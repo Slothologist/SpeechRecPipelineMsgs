@@ -1,0 +1,7 @@
+#request fields
+float64 db_min
+float64 db_keep_alive
+int32 time_max
+int32 time_keep_alive
+---
+#response fields
