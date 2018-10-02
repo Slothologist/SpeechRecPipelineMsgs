@@ -54,6 +54,7 @@ ADD_SERVICE_FILES(
    DIRECTORY srv
    FILES
    SegmenterConfig.srv
+   RecognizeSpeech.srv
 )
 
 ## Generate actions in the 'action' folder

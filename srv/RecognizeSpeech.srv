@@ -1,0 +1,3 @@
+int32 recognize_last_audio_in_ms
+---
+string recognized_speech

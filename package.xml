@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>speech_rec_pipeline_msgs</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The Messages for the SppechRecPipeline package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
